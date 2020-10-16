@@ -1,0 +1,9 @@
+    .grid_area {
+        /*display: grid;
+        grid-template-columns: repeat(2,300px);*/
+    }
+
+    .empty_thing {
+        display: grid;
+        grid-template-columns: repeat(2,300px);
+    }
